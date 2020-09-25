@@ -225,6 +225,7 @@ _Blank = withStyles(__Blank, theme => ({
   },
   Datepicker_5: {
     width: "100%",
+    height: 56,
     marginLeft: 0,
     marginRight: 0,
     marginTop: 5,
@@ -234,6 +235,7 @@ _Blank = withStyles(__Blank, theme => ({
     paddingTop: 5,
     paddingBottom: 5,
     overflow: "visible",
+    alignSelf: "center",
     fontSize: 12,
     color: "#000000",
     backgroundColor: "#ffffff",
